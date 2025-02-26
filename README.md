@@ -1,2 +1,2 @@
-# wallet-system
-Wallet system mini project
+# Digital Wallet system
+
