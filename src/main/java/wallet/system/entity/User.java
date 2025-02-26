@@ -1,7 +1,12 @@
 package wallet.system.entity;
 
+import jakarta.persistence.*;
+import lombok.Data;
+import wallet.system.helper.Role;
+
 @Entity
 @Table(name = "users")
+@Data
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -16,8 +21,7 @@ public class User {
     @Enumerated(EnumType.STRING)
     private Role role; // ADMIN or USER
 
-    private String password; // Encrypted
+    private String password;
 
-    // Getters and Setters
 }
 
