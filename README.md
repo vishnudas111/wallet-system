@@ -23,7 +23,7 @@ Testing	JUnit, Mockito
 📌 System Architecture
 The system follows a microservices-based architecture with high availability and fault tolerance.
 
-(Replace with an actual diagram if available)
+
 
 🔗 API Endpoints (Example)
 🔹 User Management
