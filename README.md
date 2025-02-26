@@ -17,8 +17,8 @@ Backend	Java, Spring Boot (Spring Security, Spring Data JPA)
 Database	MySQL, PostgreSQL
 Caching	Redis
 Message Queue	Kafka (Event-Driven Architecture)
-Authentication	JWT, BCrypt
-Infrastructure	Docker, Kubernetes
+Authentication JWT, BCrypt
+Infrastructure Docker, Kubernetes
 Testing	JUnit, Mockito
 📌 System Architecture
 The system follows a microservices-based architecture with high availability and fault tolerance.
