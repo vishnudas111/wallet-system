@@ -24,7 +24,7 @@
 
    
 📌 System Architecture
-The system follows a microservices-based architecture with high availability and fault tolerance.
+* The system follows a microservices-based architecture with high availability and fault tolerance.
 
 
 🔒 Security Measures
